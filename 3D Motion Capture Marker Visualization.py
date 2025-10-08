@@ -11,7 +11,7 @@ import matplotlib.animation as animation
 # ------------------------------
 # Load motion capture data
 # ------------------------------
-data = np.load("100_1.npy")  # shape: (frames, markers, 3)
+data = np.load("1.npy")  # shape: (frames, markers, 3)
 
 # ------------------------------
 # Marker names
